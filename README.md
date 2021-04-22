@@ -43,7 +43,7 @@ I'm kind of an allrounder, so don't expect to much specific knowledge from me.
 * PHP
 * Python
 * Java
-* Basic
+* Basic <br />
 And also:
 * HTML, CSS, JavaScript
 
