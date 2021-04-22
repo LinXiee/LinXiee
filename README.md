@@ -1,13 +1,13 @@
 ==========================================<br />
-|||&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;
 Hello! 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;||| <br />
-|||&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 Welcome to my profile!
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ||| <br />
-|||&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <br />
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;
 Thanks for checking me out!
-&emsp;&emsp;&ensp;&nbsp;||| <br />
+&emsp;&emsp;&ensp;&nbsp; <br />
 ========================================== <br />
 <hr>
 
