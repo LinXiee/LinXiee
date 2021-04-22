@@ -48,7 +48,7 @@ And also:
 * HTML, CSS, JavaScript
 
 📫 How to reach me ... <br>
-Steam   :: https://www.steamcommunity.com/id/LinXiee<br />
+Steam&nbsp;&nbsp; :: https://www.steamcommunity.com/id/LinXiee<br />
 Discord :: LinXiee#5944<br />
 
 
