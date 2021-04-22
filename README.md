@@ -8,7 +8,7 @@ Welcome to my profile!
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 Thanks for checking me out!
 &emsp;&emsp;&ensp;&nbsp; <br />
-==========================================</h3> <br />
+==========================================</h3>
 <hr>
 
 👋 Hi, I’m @LinXiee <br />
