@@ -11,7 +11,7 @@ Thanks for checking me out!
 ==========================================</h3>
 <hr>
 
-👋 Hi, I’m @LinXiee <br />
+👋 Hi, I’m LinXiee <br />
 Right now I'm 20 years old. I'm a student at a vocational collage to get my degree as an IT-Assistant
 I do electronics, microcontrollers (mainly arduinos), programming, databases, web-developing, infrastructures and all this stuff.
 I'm kind of an allrounder, so don't expect to much specific knowledge from me.
