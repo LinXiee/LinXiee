@@ -33,8 +33,6 @@ I'm kind of an allrounder, so don't expect to much specific knowledge from me.
 🌱 I’m currently learning ...
 * Lua
 * C++
-* PHP
-* Python
 
 👨‍💻Programming Languages I'm atleast familiar with ...
 * Lua
