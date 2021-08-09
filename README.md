@@ -48,9 +48,3 @@ And also:
 📫 How to reach me ... <br>
 Steam&nbsp;&nbsp; :: https://www.steamcommunity.com/id/LinXiee<br />
 Discord :: LinXiee#5944<br />
-
-
-<!---
-LinXiee/LinXiee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
